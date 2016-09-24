@@ -7,3 +7,4 @@
 ## Getting Started
 
 * [Review the Wiki](https://github.com/IBM-Hackathon/Hamburg2016/wiki)
+
